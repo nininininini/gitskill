@@ -1,2 +1,2 @@
  i am at home
-at the school
+at the company
